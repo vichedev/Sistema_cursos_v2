@@ -17,4 +17,6 @@ class Service extends Model
         'status',
         'img_course'
     ];
+
+    
 }
